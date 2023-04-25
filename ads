@@ -1,0 +1,1 @@
+com.inzgapps2store.yacinetvmrplayer_app1
